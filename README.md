@@ -1,3 +1,7 @@
+# TACT template has been moved to [tact-lang/tact-template](https://github.com/tact-lang/tact-template)
+⚠️ This repository marked as archived and no longer supported. 
+
+
 # TACT template project
 
 This project has ready to use TACT compiler, typescript + jest with [ton-emulator](https://github.com/ton-community/ton-emulator), example how to do tests.
